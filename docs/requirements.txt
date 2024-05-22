@@ -13,3 +13,4 @@ numpydoc
 better_exchook
 sphinx
 furo
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
